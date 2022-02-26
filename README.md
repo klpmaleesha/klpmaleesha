@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @maleesha2007prabash
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hello There,
 
-<!---
-maleesha2007prabash/maleesha2007prabash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## I am Maleesha
+
+> Dont judge me by looking at my repos becouse lot of my advanced repoes are privet 🔥
+
+### My Social Midea ⚫🔵🔴
+
+- [Twitter]("https://twitter.com/klpmaleesha")
+- [Github]("https://github.com/klpmaleesha")
+- [instagram]("https://www.instagram.com/klpmaleesha")
+- [facebook]("https://www.facebook.com/klpmaleesha")
+
+
+### My Skills 🔥
+
+* [HTML]
+* [CSS]
+* [JavaScript]
+* [React]
+* [Node.js]
+* [Python]
+* [Flutter]
+* [Dart]
+* [Firebase]
+* [MongoDB]
+
