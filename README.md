@@ -2,9 +2,7 @@
 
 ## I am Maleesha
 
-> Dont judge me by looking at my repos becouse lot of my advanced repoes are private 🔥
-
-### My Social Midea ⚫🔵🔴
+### My Social Media⚫🔵🔴
 
 - [Twitter](https://twitter.com/klpmaleesha)
 - [Github](https://github.com/klpmaleesha)
